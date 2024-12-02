@@ -1,0 +1,9 @@
+Primeiramente, organizar nossas ideias visualmente em uma
+ferramenta de design, como o Figma. Após isso, mapear quais
+endpoints são precisos para cada ação de cada tela criada.
+
+Com essas informações, a discussão das ferramentas utilizadas
+é essencial. Por exemplo: o tailwind é uma das melhores formas
+de estilização web atuais, mas pode não ser uma boa opção para
+projetos muito pequenos por necessitar da instalação do seu
+framework via npm.

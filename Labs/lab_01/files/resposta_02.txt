@@ -1,0 +1,12 @@
+1. React - É uma biblioteca front-end que permite a criação
+de páginas web e uma melhor integração entre código HTML e 
+código Javascript. Esta biblioteca é 
+responsável por códigos mais interativos e permite scripts
+serem integrados ao HTML de forma mais dinâmica.
+
+2. Deno - É um ambiente de desenvolvimento, baseado em Rust, 
+para Typescript e Javascript, que permite deploys mais eficientes,
+além de gerenciamento de pacotes e bibliotecas facilitado.
+
+3. Tailwind - É um framework CSS que permite a estilização de
+códigos HTML de forma mais organizada e padronizada.
