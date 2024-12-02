@@ -1,0 +1,9 @@
+O Javascript, como sugere seu nome, permite a execução de
+scripts nas aplicações web. Com isso, conseguimos desde
+dividir, por exemplo, a renderização de um site entre servidor
+e cliente, até permitir interações entre os mesmos.
+
+Com o Javascripts, forms, websites interativos, e até mesmo
+aplicações complexas podem ser criadas. Além de permitir
+também a modificação do conteúdo do site sem a necessidade
+de novas requisições com scipts in-line.

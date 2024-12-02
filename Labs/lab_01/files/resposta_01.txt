@@ -1,0 +1,7 @@
+O World Wide Web surge em 1989, pelas mãos de Tim Berners-Lee, 
+sob a proposta de permitir o compartilhamento de informações 
+entre o mundo todo.
+
+A partir desta ideia, foi possível interligar diversos documentos
+através dos hipertextos, que eram organizados e marcados 
+utilizando a linguagem HTML e enviados através do protocolo HTTP.

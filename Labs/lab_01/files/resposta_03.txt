@@ -1,0 +1,10 @@
+O versionamento de código é o ato de gerenciar as mudanças
+feitas em um código. Quando tratamos de desenvolvimento 
+colabortativo, é importante gerenciar as versões do código, 
+sejam elas uma RELEASE, uma versão que implementa uma
+FEATURE ou que resolve um BUG.
+
+O versionamento permite o merge destas versões de forma 
+organizada, sem que nenhum código seja perdido ou sobrescrito,
+além de permitir a restauração para uma versão anterior
+funcional.
